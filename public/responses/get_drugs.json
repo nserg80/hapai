@@ -1,0 +1,66 @@
+[
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №10",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": true,
+    "in_cart": true
+  },
+  {
+    "img_src": "img/drug02.jpg",
+    "title": "Амброксол-КВ таблетки 30 мг №20",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": true,
+    "in_cart": false
+  },
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №15",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": false,
+    "in_cart": true
+  },
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №20",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": false,
+    "in_cart": false
+  },
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №10",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": true,
+    "in_cart": true
+  },
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №10",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": true,
+    "in_cart": false
+  },
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №10",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": false,
+    "in_cart": true
+  },
+  {
+    "img_src": "img/drug01.png",
+    "title": "Цитрамон-Дарниця табл. №10",
+    "price": "8.33",
+    "old_price": "9.33",
+    "avaible": false,
+    "in_cart": false
+  }
+]

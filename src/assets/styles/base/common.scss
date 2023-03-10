@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: 14px/1.4 'Nunito Sans', Helvetica, Arial, sans-serif;
+    background: #fff;
+    color: #343442;
+}
+
+a {
+    color: #3985C6;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.back-link {
+    color: #8592AA;
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 16px;
+    text-decoration: none;
+
+    &__arrow {
+        margin-right: 14px;
+    }
+}
